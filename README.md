@@ -1,3 +1,5 @@
+# Here for eternal shame. Contains only "+" and "print" - nothing else, no functions are definable. Here for the shame in particular of those who gave it 125 stars, without having tried it for a second.
+
 # Cisp
 A Common Lisp Interpreter Built in COBOL.
 
